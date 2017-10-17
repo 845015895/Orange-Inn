@@ -1,0 +1,30 @@
+{
+  "name": "merchant",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yizicheng",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "autoprefixer": "^7.1.1",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-ejs": "^3.0.1",
+    "gulp-file-include": "^1.1.0",
+    "gulp-html-beautify": "^1.0.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-postcss": "^7.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-util": "^3.0.8",
+    "precss": "^2.0.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "node-sass": "^4.5.3"
+  }
+}
